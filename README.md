@@ -14,3 +14,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 
 | Day | Problem | Topic | Difficulty |
 |----|--------|-------|------------|
+1|Two Sum|Arrays|Easy|
