@@ -18,3 +18,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 2|Best Time to Buy and Sell Stock|Arrays|Easy
 3|Contains Duplicate|Arrays|Easy
 4|Move Zeros|Arrays|Easy
+5|Majority Element|Arrays|Easy
