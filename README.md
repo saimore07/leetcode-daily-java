@@ -19,3 +19,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 3|Contains Duplicate|Arrays|Easy
 4|Move Zeros|Arrays|Easy
 5|Majority Element|Arrays|Easy
+6|Intersection of Two Arrays|Easy
