@@ -20,4 +20,5 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 4|Move Zeros|Arrays|Easy
 5|Majority Element|Arrays|Easy
 6|Intersection of Two Arrays |Arrays|Easy
-7|Plus One|Arrays|Easy
+7|Plus One|Arrays|Easy 
+8|Remove Duplicate From Sorted Array|Arrays|Easy
