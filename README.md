@@ -23,3 +23,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 7|Plus One|Arrays|Easy 
 8|Remove Duplicate From Sorted Array|Arrays|Easy
 9|Valid Palindrome|Strings|Easy
+10|Valid Anagram|String|Easy
