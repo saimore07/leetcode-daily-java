@@ -25,3 +25,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 9|Valid Palindrome|Strings|Easy
 10|Valid Anagram|String|Easy
 11|Longest Common Prefix|Strings|Easy
+12|Reverse String|String|Easy
