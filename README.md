@@ -23,6 +23,7 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 7|Plus One|Arrays|Easy 
 8|Remove Duplicate From Sorted Array|Arrays|Easy
 9|Valid Palindrome|Strings|Easy
-10|Valid Anagram|String|Easy
+10|Valid Anagram|Strings|Easy
 11|Longest Common Prefix|Strings|Easy
-12|Reverse String|String|Easy
+12|Reverse String|Strings|Easy
+13|Length of Last Word|Strings|Easy
