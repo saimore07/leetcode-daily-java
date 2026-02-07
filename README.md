@@ -28,3 +28,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 12|Reverse String|Strings|Easy
 13|Length of Last Word|Strings|Easy
 14|Valid Parenthesis|Strings|Easy
+15|Min Stack|Stack|Medium
