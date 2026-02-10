@@ -30,3 +30,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 14|Valid Parenthesis|Strings|Easy
 15|Min Stack|Stack|Medium
 16|Implement Queue Using Stacks|Stacks|Easy
+17|Next Greater Element I|Stacks|Easy
