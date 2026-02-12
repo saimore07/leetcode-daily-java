@@ -31,3 +31,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 15|Min Stack|Stack|Medium
 16|Implement Queue Using Stacks|Stacks|Easy
 17|Next Greater Element I|Stacks|Easy
+18|Base Ball Game|Stacks|Easy
