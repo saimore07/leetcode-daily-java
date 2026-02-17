@@ -33,3 +33,4 @@ I solve **1 LeetCode problem daily** using **Java** and upload solutions here.
 17|Next Greater Element I|Stacks|Easy
 18|Base Ball Game|Stacks|Easy
 19|Reverse Linked List|Linked List|Easy
+20|Merge Two Sorted liked List|Linked List|Easy
